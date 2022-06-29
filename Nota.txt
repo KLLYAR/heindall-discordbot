@@ -1,0 +1,2 @@
+O update do canal tem que ver se há uma categoria, caso uma categoria não tenha sido criada, ela será.
+A categoria pode não ter nenhum canal, é bom retorna uma string '`Vazio`'.
